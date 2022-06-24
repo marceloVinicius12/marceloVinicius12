@@ -1,4 +1,4 @@
-# olá bem-vindo, eu sou ***marcelo vinicius***  :white_check_mark: :rocket:
+# olá bem-vindo  :white_check_mark: :rocket:
 
 ## veja  meu portifólio  no [github](https://github.com/marceloVinicius12?tab=repositories)
 
