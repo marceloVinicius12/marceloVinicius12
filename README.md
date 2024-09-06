@@ -2,4 +2,4 @@
 
 ## veja  meu portifólio  no [github](https://github.com/marceloVinicius12?tab=repositories)
 
-no momento estudante na area de TI do SENAC-americana/sp , buscando sempre aprender e melhorar a cada dia :mortar_board:
+no momento estudante na area de TI do FAM-americana/sp ,Desenvolvedor na Microwork Softwares, buscando sempre aprender e melhorar a cada dia :mortar_board:
